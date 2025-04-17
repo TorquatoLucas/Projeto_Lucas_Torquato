@@ -17,4 +17,13 @@ public class A {
     public void setA2(float a2) {
         A2 = a2;
     }
+
+    public void MA1(){
+        System.out.println("MA1");
+    }
+
+    public void MA2(){
+        System.out.println("MA2");
+    }
 }
+
